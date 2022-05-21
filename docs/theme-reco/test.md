@@ -8,9 +8,7 @@ categories:
 tags:
  - 烤
  - 鸭子
-keys:
- - '123456'
-publish: false
+publish: True
 ---
 
 阿巴
