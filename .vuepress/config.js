@@ -1,5 +1,11 @@
 module.exports = {
   title: "LYPL Blog",
+  locales: {
+    '/': {
+      lang: 'zh-CN'
+    }
+  }
+
   description: 'A blog about LYPL.',
   dest: 'public',
   head: [
