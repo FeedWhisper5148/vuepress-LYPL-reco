@@ -101,5 +101,6 @@ module.exports = {
   },
   markdown: {
     lineNumbers: true
-  }
+  },
+  plugins: [ 'vuepress-plugin-boxx' ]
 }  
