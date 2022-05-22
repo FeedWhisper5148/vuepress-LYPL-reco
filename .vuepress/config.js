@@ -103,6 +103,8 @@ module.exports = {
     lineNumbers: true
   },
   "plugins": [
-    ["vuepress-plugin-boxx"]
+    ["vuepress-plugin-boxx"],
+    ['cursor-effects'],
 ],
+  
 }  
