@@ -1,11 +1,5 @@
 module.exports = {
   title: "LYPL Blog",
-  locales: {
-    '/': {
-      lang: 'zh-CN'
-    }
-  }
-
   description: 'A blog about LYPL.',
   dest: 'public',
   head: [
@@ -79,7 +73,13 @@ module.exports = {
     // 备案号
     record: 'xxxx',
     // 项目开始时间
-    startYear: '2022'
+    startYear: '2022',
+    locales: {
+    '/': {
+      lang: 'zh-CN'
+    }
+  }
+
     /**
      * 密钥 (if your blog is private)
      */
