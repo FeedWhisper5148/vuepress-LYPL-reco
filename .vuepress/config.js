@@ -67,7 +67,7 @@ module.exports = {
     // 最后更新时间
     lastUpdated: 'Last Updated',
     // 作者
-    author: 'LYPL',
+    author: '落叶飘零',
     // 作者头像
     authorAvatar: '/avatar.png',
     // 备案号
