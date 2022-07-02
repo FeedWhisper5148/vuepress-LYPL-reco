@@ -27,7 +27,7 @@ tags:
 
 1. 追想练行
 
-   ![Screenshot_2022-07-02-20-24-35-27.jpg](public/assets/img/Screenshot_2022-07-02-20-24-35-27.jpg)
+   ![Screenshot_2022-07-02-20-24-35-27.jpg](https://github.com/FeedWhisper5148/vuepress-lypl-reco/blob/master/public/assets/img/Screenshot_2022-07-02-20-24-35-27.jpg)
 
    1. 护航
    2. 急袭
@@ -37,13 +37,13 @@ tags:
 
 3. 恒动械画
 
-   ![hua](public/assets/img/Screenshot_2022-07-02-20-30-11-46.jpg)
+   ![hua](https://github.com/FeedWhisper5148/vuepress-lypl-reco/blob/master/public/assets/img/Screenshot_2022-07-02-20-30-11-46.jpg)
    
 # 其他信息
 1. 迪卢克新皮肤
 
-   ![diluc](public/assets/img/Screenshot_2022-07-02-20-28-24-04.jpg)
+   ![diluc](https://github.com/FeedWhisper5148/vuepress-lypl-reco/blob/master/public/assets/img/Screenshot_2022-07-02-20-28-24-04.jpg)
 
 2. 菲谢尔新皮肤
 
-   ![feixier](public/assets/img/Screenshot_2022-07-02-20-26-13-94.jpg)
+   ![feixier](https://github.com/FeedWhisper5148/vuepress-lypl-reco/blob/master/public/assets/img/Screenshot_2022-07-02-20-26-13-94.jpg)
