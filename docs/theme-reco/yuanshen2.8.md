@@ -18,7 +18,7 @@ tags:
 
 # 卡池信息
 
-![kachi](public/assets/img/Screenshot_2022-07-02-20-15-42-16.jpg)
+![kachi](./../public/assets/img/Screenshot_2022-07-02-20-15-42-16.jpg)
 
 - 上半：万叶+可莉
 - 下半：肖宫
