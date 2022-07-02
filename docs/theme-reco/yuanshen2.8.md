@@ -1,6 +1,6 @@
 ---
 title: 原神2.8版本前瞻直播
-date: '2022-7-2 21:00:00'
+date: '2022-07-02 22:00:00'
 sidebar: 'auto'
 categories:
  - 原神
